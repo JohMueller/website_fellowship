@@ -718,7 +718,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 	margin-right :1em;
 	margin-left:10px;
 	color:#fff;
-	font-size:13px;
+	font-size:1.25em;
 	font-weight:300;
 	display:inline-block;
 	width:20px;
@@ -727,13 +727,12 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 	border-radius:50%;
 	text-align:center;
-	font-size:10px;
 	background:#3863a2;
 }
 .faq-content #accordion .panel-title > a.accordion-toggle.collapsed::before, .faq-content  #accordion a.collapsed[data-toggle="collapse"]::before  {
     content:"+";
 	color:#fff;
-	font-size:10px;
+	font-size:1em;
 	font-weight:300;
 	background:#3c3c3b;
 }
@@ -744,7 +743,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .faq-content .panel{border-radius:0px !important;}
 .faq-content .panel-default{}
 .faq-content .panel-heading{background:#f3f3f3 !important; color:#3c3c3b;}
-.faq-content .panel-body{font-size:14px; color:#3c3c3b;}
+.faq-content .panel-body{font-size:1em; color:#3c3c3b;}
 .faq-saelect{background:#f3f3f3; padding:15px; border-bottom:2px solid #3c3c3b; float:left; width:100%; margin-bottom:20px; margin-top:-10px;}
 .faq-saelect span{font-size:16px; color:#333; margin-right:20px;}
 .faq-saelect select{border:1px solid #dcdcdc; color:#3c3c3b; width:300px; height:40px;}
