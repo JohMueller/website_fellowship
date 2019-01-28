@@ -183,7 +183,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size:cover;
 }
 
 header.masthead .container {
@@ -752,4 +752,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 #bewerbung{
   padding: 2em;
+}
+
+#bewerben-mitte{
+  text-align: center;
 }
