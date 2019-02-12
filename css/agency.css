@@ -668,7 +668,9 @@ section#contact :-ms-input-placeholder {
 
 footer {
   padding: 25px 0;
-  text-align: center;
+  text-align:center;
+  margin: 0 auto;
+  width: 80%;
 }
 
 footer span.copyright {
@@ -758,8 +760,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   text-align: center;
 }
 
-.py-5{
-  display: flex;
-  align-items: center;
-  justify-content: center
+#team{
+  position: relative;
 }
