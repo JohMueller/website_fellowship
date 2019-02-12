@@ -757,3 +757,9 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #bewerben-mitte{
   text-align: center;
 }
+
+.py-5{
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
